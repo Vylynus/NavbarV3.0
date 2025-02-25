@@ -23,6 +23,7 @@
     }
     body {
         display: flex;
+        
     }
     .navigation-bar {
         display: flex;
